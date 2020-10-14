@@ -10,3 +10,7 @@ Repozytoria 3D:
 https://www.thingiverse.com/
 
 https://www.myminifactory.com/
+
+https://sketchfab.com/
+
+https://free3d.com/pl/
