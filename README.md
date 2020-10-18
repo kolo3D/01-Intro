@@ -36,7 +36,7 @@ CJP, BinderJetting, SLS,
 SLM/DMLS, EBM, MJF
 Repozytoria 3D:
 
-### 3. Materiały dla FDM/FFF
+## 3. Materiały dla FDM/FFF
 
 PLA,
 ABS,
@@ -53,6 +53,16 @@ Polypropylene,
 Metal filled,
 Wood Filled,
 PVA
+
+## 4. Zalety i wady technik przyrostowych
+
++ szybkość wytworzenia (małe ilości)
++ małe ograniczenia geometrii
++ niskie koszty (przy małych seriach)
+
+- Nie skaluje się (produkcja masowa)
+- Zawsze warstwowa struktura (chropowata powierzchnia, niższa wytrzymałość)
+- Nie zawsze odpowiednia technologia (proste modele, przejrzyste materiały)
 
 https://www.simplify3d.com/support/materials-guide/
 
