@@ -36,6 +36,27 @@ CJP, BinderJetting, SLS,
 SLM/DMLS, EBM, MJF
 Repozytoria 3D:
 
+### 3. Materiały dla FDM/FFF
+
+PLA,
+ABS,
+
+Flexible,TPU
+HIPS,
+PETG,
+Nylon,
+
+Carbon Fiber Filled,
+ASA,
+Polycarbonate,
+Polypropylene,
+Metal filled,
+Wood Filled,
+PVA
+
+https://www.simplify3d.com/support/materials-guide/
+
+
 https://www.thingiverse.com/
 
 https://www.myminifactory.com/
