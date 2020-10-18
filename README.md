@@ -83,6 +83,7 @@ Projektowanie/Modelowanie > (CAD) [stl] > Przygotowanie-cięcie modelu (Slicer) 
 7. MeshMixer
 8. Blender3D
 
+## 7. Repozytoria modeli
 
 https://www.thingiverse.com/
 
@@ -91,3 +92,5 @@ https://www.myminifactory.com/
 https://sketchfab.com/
 
 https://free3d.com/pl/
+
+
