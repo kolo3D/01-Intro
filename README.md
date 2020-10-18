@@ -72,6 +72,17 @@ https://www.simplify3d.com/support/materials-guide/
 
 Projektowanie/Modelowanie > (CAD) [stl] > Przygotowanie-cięcie modelu (Slicer) [gcode] > Druk 3D
 
+## 6. Free 3D Software
+
+1. FreeCAD
+2. OpenCAD
+3. OpenSCAD
+4. TinkerCAD
+5. Clara.io
+6. Vectary
+7. MeshMixer
+8. Blender3D
+
 
 https://www.thingiverse.com/
 
