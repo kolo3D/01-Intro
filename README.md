@@ -68,6 +68,11 @@ PVA
 https://www.simplify3d.com/support/materials-guide/
 
 
+## 5. Etapy procesu prototypowania/produkcji
+
+Projektowanie/Modelowanie > (CAD) [stl] > Przygotowanie-cięcie modelu (Slicer) [gcode] > Druk 3D
+
+
 https://www.thingiverse.com/
 
 https://www.myminifactory.com/
