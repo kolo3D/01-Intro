@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1X4FyiF4JrSol7Kd3bgrQ9gWGxlXVjZum?usp=sha
 
 
 
-##1. HISTORIA DRUKU 3D
+## 1. HISTORIA DRUKU 3D
 
 1984 SLA Stereolithography [3D Systems]
 
@@ -19,18 +19,18 @@ https://drive.google.com/drive/folders/1X4FyiF4JrSol7Kd3bgrQ9gWGxlXVjZum?usp=sha
 2010 RepRap
 
 
-##2. TECHNOLOGIE PRZYROSTOWE
+## 2. TECHNOLOGIE PRZYROSTOWE
 
-###2.1 Termoplasty w żyłce        
+### 2.1 Termoplasty w żyłce        
 
 FDM/FFF 
 
-###2.2 Żywice światłoczułe
+### 2.2 Żywice światłoczułe
 
 SLA, DLP, PolyJet/MJP,
 Inne:CLIP,3SP,MovingLight
 
-###2.3 Technologie proszkowe
+### 2.3 Technologie proszkowe
 
 CJP, BinderJetting, SLS,
 SLM/DMLS, EBM, MJF
