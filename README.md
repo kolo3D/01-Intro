@@ -56,13 +56,14 @@ PVA
 
 ## 4. Zalety i wady technik przyrostowych
 
-+ + szybkość wytworzenia (małe ilości)
-+ + małe ograniczenia geometrii
-+ + niskie koszty (przy małych seriach)
-
-- - Nie skaluje się (produkcja masowa)
-- - Zawsze warstwowa struktura (chropowata powierzchnia, niższa wytrzymałość)
-- - Nie zawsze odpowiednia technologia (proste modele, przejrzyste materiały)
+### ZALETY
++ szybkość wytworzenia (małe ilości)
++ małe ograniczenia geometrii
++ niskie koszty (przy małych seriach)
+### WADY
+- Nie skaluje się (produkcja masowa)
+- Zawsze warstwowa struktura (chropowata powierzchnia, niższa wytrzymałość)
+- Nie zawsze odpowiednia technologia (proste modele, przejrzyste materiały)
 
 https://www.simplify3d.com/support/materials-guide/
 
