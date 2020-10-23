@@ -78,10 +78,12 @@ Projektowanie/Modelowanie > (CAD) [stl] > Przygotowanie-cięcie modelu (Slicer) 
 2. OpenCAD
 3. OpenSCAD
 4. TinkerCAD
-5. Clara.io
-6. Vectary
-7. MeshMixer
-8. Blender3D
+5. OnShape (free with open files)
+6. SketchUp
+7. Clara.io
+8. Vectary
+9. MeshMixer
+10. Blender3D
 
 ## 7. Repozytoria modeli
 
